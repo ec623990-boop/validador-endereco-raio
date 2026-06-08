@@ -1,0 +1,26 @@
+# Planilhas com dados sensíveis (não versionar)
+colaboradores.xlsx
+colaboradores_validados.xlsx
+pontos.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
